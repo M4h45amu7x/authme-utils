@@ -12,7 +12,6 @@ This is a JavaScript library designed specifically for the Authme Minecraft Spig
 ## Example:
 
 ```javascript
-<?php
 const { hashPassword, validatePassword } = require('./src/authme')
 
 const password = 'iloveyou3000'
